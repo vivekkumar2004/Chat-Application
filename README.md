@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Chat-Application
 Mern Stack Chat App With Socket.io
 >>>>>>> c5d34fdfcfd9bb7eb43543777395d8fdb6b6fcda
+=======
+# Chat-App
+This is a Chat-App with Socket.io
+>>>>>>> 3f6a3c52ae51e23b2a409e725db842a753a9e307
